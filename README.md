@@ -621,8 +621,7 @@ MIT License - See LICENSE file for details
 
 ## 👨‍💻 Author
 
-Built for AI Engineer Skill Test
-Contact: [Your Email/GitHub]
+Ullas G H
 
 ---
 
